@@ -1,0 +1,16 @@
+li a {
+    color: white;
+}
+body {
+    background: white url("images/background2.gif") no-repeat;
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+
+}
